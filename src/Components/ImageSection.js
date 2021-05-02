@@ -18,17 +18,17 @@ function ImageSection() {
             <p>Address</p>
           </div>
           <div className="right-section">
-            <p>: Otman Ouali</p>
-            <p>: 36</p>
-            <p>: Moroccan</p>
-            <p>: English, Spanish, French, Arabic</p>
-            <p>: 173 Lilyfield Rd Sydney 2040</p>
+            <p>: Md. Azizul Haque</p>
+            <p>: 32</p>
+            <p>: Bangladeshi</p>
+            <p>: Bangla, English</p>
+            <p>: Savar, Dhaka - 1343</p>
           </div>
         </div>
         <br />
         <a
           type="button"
-          href="https://drive.google.com/file/d/1wmlZFgkD5WIl6vye7kR_f-SB0We-819j/view?usp=sharing"
+          href="https://drive.google.com/drive/u/0/folders/1-mI-C9oM--c3wvp3UGCLv8wZZ2yjdocj"
           className="btn"
           rel="noreferrer"
           target="_blank"

@@ -45,6 +45,16 @@ function Navbar({ sidebarOff }) {
               Contact
             </NavLink>
           </li>
+          <li className="nav-item">
+            <NavLink
+              to="/resume"
+              exact
+              activeClassName="active"
+              onClick={sidebarOff}
+            >
+              Resume
+            </NavLink>
+          </li>
         </ul>
         <footer className="footer">
           <p>Let's Talk!</p>

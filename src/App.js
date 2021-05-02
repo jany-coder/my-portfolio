@@ -6,6 +6,9 @@ import AboutPage from "./Pages/AboutPage";
 import PortfliosPage from "./Pages/PortfoliosPage";
 import ContactPage from "./Pages/ContactPage";
 import { useState } from "react";
+import Resume from "./Pages/Resume/Resume";
+
+
 
 function App() {
   const [navToggle, setNavToggle] = useState(false);
@@ -28,10 +31,11 @@ function App() {
         <div className="lines-3"></div>
       </div>
       <div className="main-content" onClick={sidebarOff}>
+      
         <div className="content">
           <Switch>
             <Route path="/" exact>
-              <HomePage />
+              <HomePage/>
             </Route>
             <Route path="/about" exact>
               <AboutPage />
@@ -41,6 +45,9 @@ function App() {
             </Route>
             <Route path="/contact" exact>
               <ContactPage />
+            </Route>
+            <Route path="/resume" exact>
+              <Resume />
             </Route>
           </Switch>
         </div>
