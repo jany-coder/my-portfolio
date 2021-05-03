@@ -9,7 +9,7 @@ import Typing from 'react-typing-animation';
 
 
 function HomePage() {
-  return ( 
+  return (
     <div className='HomePage'>
       <header className='hero'>
         <Typing>
@@ -48,7 +48,19 @@ function HomePage() {
           </a>
         </div>
       </header>
-      
+      <div className="h-sub-text">
+        <a
+          type="button"
+          href="https://drive.google.com/drive/u/0/folders/1-mI-C9oM--c3wvp3UGCLv8wZZ2yjdocj"
+          className="btn"
+          rel="noreferrer"
+          target="_blank"
+          style={{ "text-decoration": "none" }}
+        >
+          Download Cv
+        </a>
+      </div>
+
     </div>
   );
 }

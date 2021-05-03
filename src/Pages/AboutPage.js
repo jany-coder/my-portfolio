@@ -12,9 +12,7 @@ function AboutPage() {
       <div className="skillsContainer">
         <SkillsSection skill={"Javascript"} progress={"70%"} width={"70%"} />
         <SkillsSection skill={"React"} progress={"50%"} width={"50%"} />
-        <SkillsSection skill={"React Native"} progress={"50%"} width={"50%"} />
-        <SkillsSection skill={"C#"} progress={"60%"} width={"60%"} />
-        <SkillsSection skill={"ASP.NET"} progress={"50%"} width={"50%"} />
+        <SkillsSection skill={"React Native"} progress={"20%"} width={"50%"} />
         <SkillsSection skill={"HTML"} progress={"90%"} width={"90%"} />
         <SkillsSection skill={"CSS"} progress={"80%"} width={"80%"} />
         <SkillsSection skill={"Bootstrap"} progress={"65%"} width={"65%"} />
