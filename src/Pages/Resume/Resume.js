@@ -35,26 +35,26 @@ const Resume = () => {
                 <h3> <u>Hungry Monster</u></h3>
                 <h4>Features</h4>
                 <ul className="ml-10">
-                    <li>Get Consultant</li>
-                    <li>Appointment By Date</li>
-                    <li>Individual Dashboard </li>
+                    <li>Search food item by name or letter</li>
+                    <li>You can see the food name by hovering the mouse</li>
+                    <li>You can see the food name by hovering the mouse</li>
                 </ul>
-                <p><a href="https://startupconsultant-84acc.web.app/">Website</a></p>
-                <p><a href="https://github.com/jany-coder/StartupConsultant">Github Repository</a></p>
-                <p>Technology: React, Bootstrap, CSS, Firebase, Node JS, Mongo dB, Font Awesome</p>
+                <p><a href="https://jany-coder.github.io/assignment-05/">Website</a></p>
+                <p><a href="https://github.com/jany-coder/assignment-05">Github Repository</a></p>
+                <p>Technology: HTML, CSS, React, JavaScript, Bootstrap, CSS, Use API</p>
             </div>
 
             <div>
                 <h3> <u>Fresh Bazar</u></h3>
                 <h4>Features</h4>
                 <ul className="ml-10">
-                    <li>Get Consultant</li>
-                    <li>Appointment By Date</li>
-                    <li>Individual Dashboard </li>
+                    <li>Dynamic product card and load product from database</li>
+                    <li>Individual authentication system</li>
+                    <li>Add product dynamically </li>
                 </ul>
-                <p><a href="https://startupconsultant-84acc.web.app/">Website</a></p>
-                <p><a href="https://github.com/jany-coder/StartupConsultant">Github Repository</a></p>
-                <p>Technology: React, Bootstrap, CSS, Firebase, Node JS, Mongo dB, Font Awesome</p>
+                <p><a href="https://fresh-bazar-50aeb.web.app/">Website</a></p>
+                <p><a href="https://github.com/jany-coder/daily-fresh-bazar">Github Repository</a></p>
+                <p>Technology: HTML, CSS, React, JavaScript, Bootstrap, Firebase, MongoDB</p>
             </div>
             <h2 className="mt-20">Experience</h2>
             <div>
